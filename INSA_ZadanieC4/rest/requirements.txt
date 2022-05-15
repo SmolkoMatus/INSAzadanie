@@ -1,3 +1,0 @@
-flask==2.0.2
-requests==2.27.1
--e "C:\Users\smonk\Desktop\INSA-Zadanie-main\INSA-Zadanie-main\Zadanie_4\pipeline"
